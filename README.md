@@ -1,4 +1,4 @@
-![xepelin logo](.\xepelin-logo.png)
+![xepelin logo](./xepelin-logo.png)
 
 En Xepelin estamos desarrollando un nuevo producto para las pymes de latinoamérica, y tu objetivo como miembro del equipo de Data es analizar los datos transaccionales disponible y generar un modelo que permita predecir cuánto dinero se pagará a través de este producto y cuanto se financiará por Xepelin.
 Crea tu análisis y modelo en el lenguaje de programación y/o programa que consideres apropiado.
