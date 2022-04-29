@@ -4,13 +4,15 @@ En Xepelin estamos desarrollando un nuevo producto para las pymes de latinoamér
 Crea tu análisis y modelo en el lenguaje de programación y/o programa que consideres apropiado.
 
 Datos disponibles:
-* PayerId - Id de la empresa que va a realizar el pago
-* ReceiverId - Id de la empresa que recibe el pago
-* invoiceId - Id de la factura pagada
-* paidAt - Fecha de pago
-* amount - Monto de la factura pagada
-* amountfinancedByXepelin - Monto de la factura que Xepelin financió al pagador para realizar la transacción
-* Status - Estado de cada transacción [Pagada, Procesando, Fallida].
+| campo                    | descripción                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------|
+| PayerId                  |  Id de la empresa que va a realizar   el pago                                       |
+| ReceiverId               |  Id de la empresa que recibe el   pago                                              |
+| invoiceId                |  Id de la factura pagada                                                            |
+| paidAt                   |  Fecha de pago                                                                      |
+| amount                   |  Monto de la factura pagada                                                         |
+| amountfinancedByXepelin  |  Monto de la factura que Xepelin   financió al pagador para realizar la transacción |
+| Status                   |  Estado de cada transacción   [Pagada, Procesando, Fallida].                        |
 
 1.	Realiza cualquier limpieza, análisis exploratorio y visualización útiles para el modelo. 
 2.	Crea el modelo que consideres apropiado para estimar el dinero que se moverá en Xepelin durante Octubre 2021. Explica porque seleccionaste este tipo de modelo, que supuestos consideraste y cuáles alternativas evaluaste.
